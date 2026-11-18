@@ -1,4 +1,6 @@
-﻿dp0/Geom/DM/Geom.agdb
+﻿dp0/FLTG/Fluent/FLTG_workflow_files/FLTG.wft
+dp0/FLTG/Fluent/FLTG.msh.h5
+dp0/Geom/DM/Geom.agdb
 dp0/act.dat
 dp0/designPoint.wbdp
 session_files/journal1.wbjn
@@ -6,7 +8,11 @@ session_files/journal2.wbjn
 dp0/
 dpall/
 session_files/
+dp0/FLTG/
 dp0/Geom/
+dp0/FLTG/Fluent/
+dp0/FLTG/Fluent/FLTG_workflow_files/
+dp0/FLTG/Fluent/Workflow/
 dp0/Geom/DM/
 dpall/global/
 dpall/global/ACT/
